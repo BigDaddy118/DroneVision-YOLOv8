@@ -1,0 +1,23 @@
+# Python 虚拟环境
+drone_det_env/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# 大文件/模型权重（超过100MB）
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# 数据、日志、IDE 配置等
+data/
+runs/
+*.log
+.idea/
+.vscode/
+*.swp
