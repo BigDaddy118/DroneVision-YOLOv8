@@ -63,7 +63,7 @@
 
 <img width="398" height="247" alt="image" src="https://github.com/user-attachments/assets/2cc9617e-e0f2-4ec3-a850-e16a474788cc" />
 <img width="356" height="218" alt="image" src="https://github.com/user-attachments/assets/c16eb860-fa6d-4994-958f-6b02f37de85e" />
-红色框为误检
+红色框为漏检
 
 ## 5. 改进方向
 
