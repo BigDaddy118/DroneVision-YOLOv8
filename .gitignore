@@ -15,9 +15,8 @@ __pycache__/
 *.engine
 
 # 数据、日志、IDE 配置等
-data/
-runs/
 *.log
+data/
 .idea/
 .vscode/
 *.swp
